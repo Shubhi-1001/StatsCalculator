@@ -14,5 +14,5 @@ StatsCalculator is a simple Python project for performing basic statistical calc
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/StatsCalculator.git
+   git clone https://github.com/Shubhi-1001/StatsCalculator.git
    cd StatsCalculator
